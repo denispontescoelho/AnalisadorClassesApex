@@ -16,7 +16,7 @@ import javax.swing.filechooser.FileSystemView;
 
 import org.apache.commons.io.FileUtils;
 
-public class AnalisadorArquivos2 {
+public class AnalisadorArquivos {
 	public static boolean dentroComentarioBloco = false;
 	
 	public static void main(String[] args) {
